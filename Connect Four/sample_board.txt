@@ -1,0 +1,6 @@
+.......
+..O....
+X.XO.OO
+X.OO.OO
+X.XX.XO
+OOXX.XX
