@@ -45,6 +45,6 @@ DO YOUR OWN TESTING AND ANALYSIS!
 .Nodes expanded: 6370 (max score: 12/10)
 NOTE: this is an upper bound on your score, not your final score for this part; see project guidelines for
 details
-.
+
 ----------------------------------------------------------------------
 Ran 106 tests in 0.248s
