@@ -40,9 +40,12 @@ based on the side of the wall.
 
 Result:
 All admissibility checks passed in this example.
+
 WARNING: there may be errors not detected by these test cases.
 DO YOUR OWN TESTING AND ANALYSIS!
-.Nodes expanded: 6370 (max score: 12/10)
+
+Nodes expanded: 6370 (max score: 12/10)
+
 NOTE: this is an upper bound on your score, not your final score for this part; see project guidelines for
 details
 
