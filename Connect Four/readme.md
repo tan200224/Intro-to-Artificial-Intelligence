@@ -36,51 +36,95 @@ with those methods removed. For all the trials, we ran the comparison agents 10 
 the benchmark agent to record and check the performance.
 
 # Agent Results
+
 -p1 c4benchmarkagent.pyc -p2 c4agent.py -t25
+
 Stats:
+
 c4benchmarkagent.pyc wins: 3
+
 c4agent.py wins: 42
+
 Draws: 5
+
 c4benchmarkagent.pyc:
+
 0.060079140449637795 seconds per step, on average
+
 183.1915422885572 nodes expanded per step, on average, using the
+
 order heuristic
+
 c4agent.py:
+
 0.16219887368887373 seconds per step, on average
+
 176.82645631067962 nodes expanded per step, on average, using the
+
 order heuristic
 
 -p1 c4agent.py -d1 -p2 c4benchmarkagent.pyc -t5
+
 Stats:
+
 c4agent.py wins: 10
+
 c4benchmarkagent.pyc wins: 0
+
 Draws: 0
+
 c4agent.py:
+
 0.15726061063270047 seconds per step, on average
+
 327.3082191780822 nodes expanded per step, on average, using the
+
 default move order
+
 170.13698630136986 nodes expanded per step, on average, using the
+
 order heuristic
+
 c4benchmarkagent.pyc:
+
 0.060504539638546344 seconds per step, on average
+
 187.7872340425532 nodes expanded per step, on average, using the
+
 order heuristic
+
 -r -p1 AA.py -p2 c4benchmarkagent.pyc -t 25
+
 Stats:
+
 AA.py wins: 46
+
 c4benchmarkagent.pyc wins: 3
+
 Draws: 1
+
 AA.py:
+
 0.16273189715061234 seconds per step, on average
+
 c4benchmarkagent.pyc:
+
 0.05892826463006864 seconds per step, on average
 
 -r -p1 AA.py -p2 c4qualifyingagent.pyc -t 25
+
 Stats:
+
 AA.py wins: 50
+
 c4qualifyingagent.pyc wins: 0
+
 Draws: 0
+
 AA.py:
+
 0.1275325334072113 seconds per step, on average
+
 c4qualifyingagent.pyc:
+
 0.0619309210165953 seconds per step, on average
