@@ -45,10 +45,3 @@ Here's a walkthrough of implemented user stories:
 <img src='connect4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-## Notes
-
-Creating the layout of the game by only using code
-
-Thinking about the ways to added all the numbers in different rows and colmuns
-
